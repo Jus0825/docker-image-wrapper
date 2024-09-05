@@ -1,2 +1,1 @@
-FROM mirrors.tuna.tsinghua.edu.cn/centos/8.5.2111/
-  
+FROM https://mirrors.tuna.tsinghua.edu.cn/centos/8.5.2111/
